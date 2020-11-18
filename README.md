@@ -1,2 +1,2 @@
 # Homework
-- zde budou mé úkoly
+- zde budou mé úkoly.
